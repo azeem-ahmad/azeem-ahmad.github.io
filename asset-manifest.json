@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.50b89eb1.chunk.css",
-    "main.js": "/static/js/main.9c99aaef.chunk.js",
-    "main.js.map": "/static/js/main.9c99aaef.chunk.js.map",
+    "main.css": "/static/css/main.1000efba.chunk.css",
+    "main.js": "/static/js/main.e860d52a.chunk.js",
+    "main.js.map": "/static/js/main.e860d52a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1afb9ad3.js",
     "runtime-main.js.map": "/static/js/runtime-main.1afb9ad3.js.map",
     "static/js/2.a1fe6cb8.chunk.js": "/static/js/2.a1fe6cb8.chunk.js",
     "static/js/2.a1fe6cb8.chunk.js.map": "/static/js/2.a1fe6cb8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f49cc49ae584434c6d1c6020dfc87085.js": "/precache-manifest.f49cc49ae584434c6d1c6020dfc87085.js",
+    "precache-manifest.2e9fa09f70a074bea9f889338f5c350f.js": "/precache-manifest.2e9fa09f70a074bea9f889338f5c350f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.50b89eb1.chunk.css.map": "/static/css/main.50b89eb1.chunk.css.map",
+    "static/css/main.1000efba.chunk.css.map": "/static/css/main.1000efba.chunk.css.map",
     "static/js/2.a1fe6cb8.chunk.js.LICENSE.txt": "/static/js/2.a1fe6cb8.chunk.js.LICENSE.txt",
     "static/media/simple-line-icons.min.css": "/static/media/Simple-Line-Icons.f33df365.eot",
     "static/media/a1-hi-tech.jpg": "/static/media/a1-hi-tech.e1722994.jpg",
@@ -22,7 +22,7 @@
     "static/media/aspire-pmt.jpg": "/static/media/aspire-pmt.5eedd307.jpg",
     "static/media/azeem-portfolio-new.jpg": "/static/media/azeem-portfolio-new.aec73ab9.jpg",
     "static/media/azeem-portfolio.jpg": "/static/media/azeem-portfolio.2f64f3a8.jpg",
-    "static/media/azeem.jpg": "/static/media/azeem.bd89ebb5.jpg",
+    "static/media/azeem.jpg": "/static/media/azeem.a0459873.jpg",
     "static/media/bigbird.jpg": "/static/media/bigbird.eafb446f.jpg",
     "static/media/byohbaraat.jpg": "/static/media/byohbaraat.8df99bad.jpg",
     "static/media/settings.css": "/static/media/revicons.2feb69cc.eot",
@@ -62,7 +62,7 @@
   "entrypoints": [
     "static/js/runtime-main.1afb9ad3.js",
     "static/js/2.a1fe6cb8.chunk.js",
-    "static/css/main.50b89eb1.chunk.css",
-    "static/js/main.9c99aaef.chunk.js"
+    "static/css/main.1000efba.chunk.css",
+    "static/js/main.e860d52a.chunk.js"
   ]
 }
