@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f06ed853d82699b99cb02df4ed0aa98",
+    "revision": "f2e2dee61befcf0ac8314eac34c4737f",
     "url": "/index.html"
   },
   {
-    "revision": "a510e040f970c7ec9cf2",
-    "url": "/static/css/main.893fd3b6.chunk.css"
+    "revision": "bd0763fdb37c86ef7f07",
+    "url": "/static/css/main.eb5f501e.chunk.css"
   },
   {
-    "revision": "0c969ad34533e2dc2a08",
-    "url": "/static/js/2.fe5bff3d.chunk.js"
+    "revision": "4de9fb5f516e1f7eb50a",
+    "url": "/static/js/2.9c57f250.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.fe5bff3d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9c57f250.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a510e040f970c7ec9cf2",
-    "url": "/static/js/main.102726e2.chunk.js"
+    "revision": "bd0763fdb37c86ef7f07",
+    "url": "/static/js/main.db24c885.chunk.js"
   },
   {
     "revision": "bef689ffdd4347b4c7de",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/affixcenter.bc624693.jpg"
   },
   {
+    "revision": "1ac2378348296f96f36c62dd46a1b213",
+    "url": "/static/media/aha.1ac23783.jpg"
+  },
+  {
     "revision": "c62af9fc85d7cacc31f439d48dbb194c",
     "url": "/static/media/ahika.c62af9fc.jpg"
   },
@@ -76,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/aspire-pmt.5eedd307.jpg"
   },
   {
-    "revision": "aec73ab9015e3e1549865605524e1334",
-    "url": "/static/media/azeem-portfolio-new.aec73ab9.jpg"
+    "revision": "5f4f5f81ddf28410cbed92dd5fddb4f8",
+    "url": "/static/media/azeem-portfolio-new.5f4f5f81.jpg"
   },
   {
     "revision": "2f64f3a804ec4825881a70ebb5b33c14",
@@ -260,6 +264,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pencil-blue-line.08d2ce15.png"
   },
   {
+    "revision": "63529e136c9dd3dadaa26e11f6c2ef9e",
+    "url": "/static/media/pht.63529e13.jpg"
+  },
+  {
+    "revision": "c5a49f843f5f6431b21adb6b72ec70e4",
+    "url": "/static/media/poh.c5a49f84.jpg"
+  },
+  {
     "revision": "66af1fa07f9f03d19f076d628921fc25",
     "url": "/static/media/purpose-trade.66af1fa0.jpg"
   },
@@ -298,6 +310,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c635d4bdb9c780dae1c245e3fef29652",
     "url": "/static/media/shoesetc.c635d4bd.jpg"
+  },
+  {
+    "revision": "968f90d3e12de139d11b2a5c6f5490fb",
+    "url": "/static/media/sht-react.968f90d3.jpg"
+  },
+  {
+    "revision": "cc87d2ac7232f37a5f573d5c0c062f37",
+    "url": "/static/media/sht.cc87d2ac.jpg"
   },
   {
     "revision": "fce3208393633668e39b49e3257f2ce4",
@@ -344,7 +364,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/wallstreet.0c27f014.jpg"
   },
   {
-    "revision": "fce21585c127973a84640f2eb4e6ec1e",
-    "url": "/static/media/xcitedata.fce21585.jpg"
+    "revision": "361b6293b9f008592c88ee5a05e751db",
+    "url": "/static/media/weather-app.361b6293.jpg"
+  },
+  {
+    "revision": "389f249395de0ad7ab855f973471b077",
+    "url": "/static/media/xcitedata.389f2493.jpg"
   }
 ]);
