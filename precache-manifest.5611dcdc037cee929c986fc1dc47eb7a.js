@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2e2dee61befcf0ac8314eac34c4737f",
+    "revision": "70158eaad0ef3e0af17cb92998bee495",
     "url": "/index.html"
   },
   {
-    "revision": "bd0763fdb37c86ef7f07",
-    "url": "/static/css/main.eb5f501e.chunk.css"
+    "revision": "5f6ccb58bcb0ea32775e",
+    "url": "/static/css/main.f889fd17.chunk.css"
   },
   {
-    "revision": "4de9fb5f516e1f7eb50a",
-    "url": "/static/js/2.9c57f250.chunk.js"
+    "revision": "616e19fd0e244fce3619",
+    "url": "/static/js/2.ad470002.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.9c57f250.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ad470002.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd0763fdb37c86ef7f07",
-    "url": "/static/js/main.db24c885.chunk.js"
+    "revision": "5f6ccb58bcb0ea32775e",
+    "url": "/static/js/main.7bbfdfbc.chunk.js"
   },
   {
     "revision": "bef689ffdd4347b4c7de",
@@ -224,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/legacom.f3edce59.jpg"
   },
   {
+    "revision": "3ca742cbe915f6ef4a176ee3a2a96e1d",
+    "url": "/static/media/m-finance.3ca742cb.jpg"
+  },
+  {
     "revision": "97361c5d6912f2e46f1b7df1f757e60e",
     "url": "/static/media/map.97361c5d.png"
   },
@@ -350,6 +354,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "09324a996df5ec2c078ca3e442e6312c",
     "url": "/static/media/startup-freedom.09324a99.jpg"
+  },
+  {
+    "revision": "819907e60ada7b2dd54a50ff6638777d",
+    "url": "/static/media/transactional-website.819907e6.jpg"
   },
   {
     "revision": "d2871ce218898d86573a0f1339f93cd2",

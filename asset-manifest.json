@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb5f501e.chunk.css",
-    "main.js": "/static/js/main.db24c885.chunk.js",
-    "main.js.map": "/static/js/main.db24c885.chunk.js.map",
+    "main.css": "/static/css/main.f889fd17.chunk.css",
+    "main.js": "/static/js/main.7bbfdfbc.chunk.js",
+    "main.js.map": "/static/js/main.7bbfdfbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1afb9ad3.js",
     "runtime-main.js.map": "/static/js/runtime-main.1afb9ad3.js.map",
-    "static/js/2.9c57f250.chunk.js": "/static/js/2.9c57f250.chunk.js",
-    "static/js/2.9c57f250.chunk.js.map": "/static/js/2.9c57f250.chunk.js.map",
+    "static/js/2.ad470002.chunk.js": "/static/js/2.ad470002.chunk.js",
+    "static/js/2.ad470002.chunk.js.map": "/static/js/2.ad470002.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.eee9266736ce54b35ec736aa8324ee9b.js": "/precache-manifest.eee9266736ce54b35ec736aa8324ee9b.js",
+    "precache-manifest.5611dcdc037cee929c986fc1dc47eb7a.js": "/precache-manifest.5611dcdc037cee929c986fc1dc47eb7a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.eb5f501e.chunk.css.map": "/static/css/main.eb5f501e.chunk.css.map",
-    "static/js/2.9c57f250.chunk.js.LICENSE.txt": "/static/js/2.9c57f250.chunk.js.LICENSE.txt",
+    "static/css/main.f889fd17.chunk.css.map": "/static/css/main.f889fd17.chunk.css.map",
+    "static/js/2.ad470002.chunk.js.LICENSE.txt": "/static/js/2.ad470002.chunk.js.LICENSE.txt",
     "static/media/simple-line-icons.min.css": "/static/media/Simple-Line-Icons.f33df365.eot",
     "static/media/a1-hi-tech.jpg": "/static/media/a1-hi-tech.e1722994.jpg",
     "static/media/about-me-bg-1.jpg": "/static/media/about-me-bg-1.560e25e5.jpg",
@@ -40,6 +40,7 @@
     "static/media/jplaw.jpg": "/static/media/jplaw.c29921f2.jpg",
     "static/media/knav.jpg": "/static/media/knav.4d0498ff.jpg",
     "static/media/legacom.jpg": "/static/media/legacom.f3edce59.jpg",
+    "static/media/m-finance.jpg": "/static/media/m-finance.3ca742cb.jpg",
     "static/media/mex.jpg": "/static/media/mex.187b9d8e.jpg",
     "static/media/morgan.jpg": "/static/media/morgan.2917731d.jpg",
     "static/media/msobcfdc.jpg": "/static/media/msobcfdc.a570b1af.jpg",
@@ -62,6 +63,7 @@
     "static/media/ssmart-shopy.jpg": "/static/media/ssmart-shopy.09e243ad.jpg",
     "static/media/theme-shop.css": "/static/media/star.6b78a34c.ttf",
     "static/media/startup-freedom.jpg": "/static/media/startup-freedom.09324a99.jpg",
+    "static/media/transactional-website.jpg": "/static/media/transactional-website.819907e6.jpg",
     "static/media/upskill-master-landing-page.jpg": "/static/media/upskill-master-landing-page.d2871ce2.jpg",
     "static/media/upskill-master.jpg": "/static/media/upskill-master.bef1cf05.jpg",
     "static/media/wallstreet.jpg": "/static/media/wallstreet.0c27f014.jpg",
@@ -70,8 +72,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1afb9ad3.js",
-    "static/js/2.9c57f250.chunk.js",
-    "static/css/main.eb5f501e.chunk.css",
-    "static/js/main.db24c885.chunk.js"
+    "static/js/2.ad470002.chunk.js",
+    "static/css/main.f889fd17.chunk.css",
+    "static/js/main.7bbfdfbc.chunk.js"
   ]
 }
